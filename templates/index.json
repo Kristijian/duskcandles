@@ -3,7 +3,7 @@
     "news_letter_HnnWRx": {
       "type": "news-letter",
       "custom_css": [
-
+        ".marquee {position: relative; width: 100vw; max-width: 100%; height: 200px; overflow-x: hidden;}"
       ],
       "settings": {
         "news_letter_text": "<b>Click & Collect Available<\/b>",
