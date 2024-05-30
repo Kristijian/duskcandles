@@ -2,8 +2,11 @@
   "sections": {
     "news_letter_HnnWRx": {
       "type": "news-letter",
+      "custom_css": [
+
+      ],
       "settings": {
-        "news_letter_text": "Click & Collect Available",
+        "news_letter_text": "<b>Click & Collect Available<\/b>",
         "head_text": "Buy One... Get One",
         "main_text": "50% Off Storewide",
         "link_text": "Shop Now",
