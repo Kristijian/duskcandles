@@ -7,8 +7,8 @@
       ],
       "settings": {
         "news_letter_text": "<marquee width=\"40%\" direction=\"right\" height=\"20px\"> Click & Collect Available<\/marquee>",
-        "head_text": "<title>Blinking Feature Using CSS<\/title>     <style>         body {             font-family: Arial, sans-serif;             line-height: 0;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                          \/*small , responsive font size *\/             margin-bottom: 0px;         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>        <p class=\"blink\">Buy One... Get One<\/p>",
-        "main_text": "<h2>50% Off Storewide<\/h2>",
+        "head_text": "<title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height: 0;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                          \/*small , responsive font size *\/             margin-bottom: 0px;         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>        <p class=\"blink\">Buy One... Get One<\/p>",
+        "main_text": "50% Off Storewide",
         "link_text": "Shop Now",
         "link_url": "shopify:\/\/collections"
       }
