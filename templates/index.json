@@ -6,7 +6,7 @@
 
       ],
       "settings": {
-        "news_letter_text": "<marquee width=\"40%\" direction=\"center\"> Click & Collect Available<\/marquee><title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height: 0;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>",
+        "news_letter_text": "<marquee width=\"40%\" direction=\"right\"> Click & Collect Available<\/marquee><title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height: 0;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>",
         "head_text": "",
         "main_text": "",
         "link_text": "Shop Now",
