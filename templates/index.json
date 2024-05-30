@@ -6,7 +6,7 @@
 
       ],
       "settings": {
-        "news_letter_text": "<b>Click & Collect Available<\/b>",
+        "news_letter_text": "<marquee width=\"60%\" direction=\"up\" height=\"100px\"> Click & Collect Available<\/marquee>",
         "head_text": "Buy One... Get One",
         "main_text": "50% Off Storewide",
         "link_text": "Shop Now",
