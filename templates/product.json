@@ -3,13 +3,11 @@
     "news_letter_e9dB46": {
       "type": "news-letter",
       "settings": {
-        "news_letter_text": "Limited time only",
-        "head_text": "The \"One for Me, One for you\"Event",
-        "main_text_1": "Buy 1... Get 1",
-        "main_text_2": "50% Off Storewide",
-        "link_text": "Shop Now",
-        "link_url": "",
-        "image": "shopify:\/\/shop_images\/20240501-Sitewide-MD24-BOGO-d.webp"
+        "news_letter_text": "<marquee width=\"30%\" direction=\"right\"> Click & Collect Available<\/marquee>",
+        "head_text": "Buy One ...Get One",
+        "main_text": "Buy 1... Get 1",
+        "link_text": "HALF - PRICE",
+        "link_url": ""
       }
     },
     "main": {
