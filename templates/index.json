@@ -15,6 +15,7 @@
     },
     "custom_liquid_pFzjUn": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<html>\n \n<head>\n <title>Blinking Feature Using CSS<\/title>\n    <style>\n        body {\n            text-align: center;\n        }\n\n        .blink {\n            animation: blinker 1.5s linear infinite;\n            color: Black\n            font-size: 1.em;\n            \/* Larger, responsive font size *\/\n            margin-bottom: 20px;\n        }\n\n        @keyframes blinker {\n            50% {\n                opacity: 0;\n            }\n        }\n    <\/style>\n<\/head>\n\n<body>\n    <p class=\"blink\">Shop Now<\/p>\n<\/body>\n\n    <title>HTML Marquee loop attribute<\/title>\n    <style>\n        .main {\n            text-align: center;\n            font-family: \"Times New Roman\";\n        }\n \n        .marq {\n            padding-top: 30px;\n            padding-bottom: 30px;\n        }\n \n        .geek1 {\n            font-size: 18px;\n            font-weight: bold;\n            color: Black;\n            text-align: center;\n        }\n \n        .geek2 {\n            text-align: center;\n        }\n    <\/style>\n<\/head>\n \n<body>\n    <div class=\"main\">\n        <marquee class=\"marq\" bgcolor=\"Pink\"\n                 direction=\"right\" loop=\"100\">\n            <div class=\"geek1\">Click & Collect Available<\/div>\n            <div class=\"geek2\">\n                \n            <\/div>\n        <\/marquee>\n       \n    <\/div>\n<\/body>\n \n<\/html>",
         "color_scheme": "",
@@ -64,7 +65,7 @@
         "slide_8RXdND": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-banner-GIFT.png",
+            "image": "shopify:\/\/shop_images\/Main-banner-2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
