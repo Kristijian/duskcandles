@@ -2,6 +2,7 @@
   "sections": {
     "news_letter_e9dB46": {
       "type": "news-letter",
+      "disabled": true,
       "settings": {
         "news_letter_text": "<marquee width=\"30%\" direction=\"right\"> Click & Collect Available<\/marquee>",
         "head_text": "Buy One ... Get One",
