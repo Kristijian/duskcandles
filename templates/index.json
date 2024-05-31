@@ -6,11 +6,20 @@
 
       ],
       "settings": {
-        "news_letter_text": "<marquee width=\"30%\" direction=\"right\"> Click & Collect Available<\/marquee><title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height: 0;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>",
+        "news_letter_text": "<marquee width=\"30%\" direction=\"right\"> Click & Collect Available<\/marquee><title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height:auto;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>",
         "head_text": "",
         "main_text": "",
         "link_text": "Shop Now",
         "link_url": "shopify:\/\/collections"
+      }
+    },
+    "custom_liquid_pFzjUn": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<html>\n \n<head>\n <title>Blinking Feature Using CSS<\/title>\n    <style>\n        body {\n            text-align: center;\n        }\n\n        .blink {\n            animation: blinker 1.5s linear infinite;\n            color: Black\n            font-size: 1.em;\n            \/* Larger, responsive font size *\/\n            margin-bottom: 20px;\n        }\n\n        @keyframes blinker {\n            50% {\n                opacity: 0;\n            }\n        }\n    <\/style>\n<\/head>\n\n<body>\n    <p class=\"blink\">Shop Now<\/p>\n<\/body>\n\n    <title>HTML Marquee loop attribute<\/title>\n    <style>\n        .main {\n            text-align: center;\n            font-family: \"Times New Roman\";\n        }\n \n        .marq {\n            padding-top: 30px;\n            padding-bottom: 30px;\n        }\n \n        .geek1 {\n            font-size: 18px;\n            font-weight: bold;\n            color: Black;\n            text-align: center;\n        }\n \n        .geek2 {\n            text-align: center;\n        }\n    <\/style>\n<\/head>\n \n<body>\n    <div class=\"main\">\n        <marquee class=\"marq\" bgcolor=\"Pink\"\n                 direction=\"right\" loop=\"100\">\n            <div class=\"geek1\">Click & Collect Available<\/div>\n            <div class=\"geek2\">\n                \n            <\/div>\n        <\/marquee>\n       \n    <\/div>\n<\/body>\n \n<\/html>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "slideshow_YerUHn": {
@@ -308,6 +317,7 @@
   },
   "order": [
     "news_letter_CFcGRR",
+    "custom_liquid_pFzjUn",
     "slideshow_YerUHn",
     "image_banner",
     "featured_collection",
