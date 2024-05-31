@@ -178,6 +178,20 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "10405695140724852225": {
+        "type": "shopify:\/\/apps\/faqking\/blocks\/flyout-embed\/3c13bf97-def2-4442-b06f-a64e813a2392",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14171380182093092491": {
+        "type": "shopify:\/\/apps\/faqking\/blocks\/product-faq-embed\/3c13bf97-def2-4442-b06f-a64e813a2392",
+        "disabled": false,
+        "settings": {
+          "css_selector": "",
+          "custom_css": ""
+        }
       }
     },
     "color_schemes": {
