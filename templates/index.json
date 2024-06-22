@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "news_letter_CFcGRR": {
@@ -314,6 +323,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "17190328332799eeb8": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_rBEWak": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_rBEWak"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -326,6 +352,7 @@
     "featured_collection_custom_fMbV3b",
     "healing_stone_8bi4Wc",
     "collection_list_custom_HzzQzp",
-    "contact_form_custom_j4X8dt"
+    "contact_form_custom_j4X8dt",
+    "17190328332799eeb8"
   ]
 }
