@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "news_letter_e9dB46": {
@@ -46,6 +55,11 @@
           "type": "description",
           "settings": {
           }
+        },
+        "judge_me_reviews_preview_badge_W8yQUy": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -54,7 +68,8 @@
         "helpmodal_YyLgVF",
         "quantity_selector",
         "buy_buttons",
-        "description"
+        "description",
+        "judge_me_reviews_preview_badge_W8yQUy"
       ],
       "settings": {
         "enable_sticky_info": true,
