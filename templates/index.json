@@ -15,7 +15,7 @@
 
       ],
       "settings": {
-        "news_letter_text": "<marquee width=\"30%\" direction=\"right\"> Click & Collect Available<\/marquee><title>Blinking Feature Using CSS<\/title>     <style>         body {  line-height:auto;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }     <\/style>",
+        "news_letter_text": "Click & Collect Available. Free Delivery When Order $120Blinking Feature Using CSS              body {  line-height:auto;             text-align: center;         }          .blink {             animation: blinker 1.5s linear infinite;             color: black;                                      margin-bottom:         }          @keyframes blinker {             70% {                 opacity: 0;             }         }",
         "head_text": "",
         "main_text": "LOVED BY NATURE!",
         "link_text": "Shop Now",
