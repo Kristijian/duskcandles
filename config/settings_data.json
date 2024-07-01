@@ -198,7 +198,7 @@
         "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
-          "button_color": "#000000",
+          "button_color": "#a4790b",
           "secondary_color": "#ffffff",
           "ternary_color": "#b1a013",
           "button_icon": "chat_bubble",
