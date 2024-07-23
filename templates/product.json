@@ -187,6 +187,22 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1721712132ff0c8042": {
+      "type": "apps",
+      "blocks": {
+        "omnisend_email_marketing_sms_product_reviews_AdEdeK": {
+          "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/product-reviews\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "omnisend_email_marketing_sms_product_reviews_AdEdeK"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -196,6 +212,7 @@
     "featured_collection_custom_QV7dwE",
     "related-products",
     "contact_form_custom_FqeVN6",
-    "1721709844989aaa43"
+    "1721709844989aaa43",
+    "1721712132ff0c8042"
   ]
 }
