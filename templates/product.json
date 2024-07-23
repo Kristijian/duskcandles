@@ -87,6 +87,22 @@
         "padding_bottom": 12
       }
     },
+    "17217204298267c120": {
+      "type": "apps",
+      "blocks": {
+        "omnisend_email_marketing_sms_product_reviews_rCKHqL": {
+          "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/product-reviews\/44704aa2-794f-4c5d-8c8e-039c841158e9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "omnisend_email_marketing_sms_product_reviews_rCKHqL"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_collection_custom_wFUNgn": {
       "type": "featured-collection-custom",
       "settings": {
@@ -204,17 +220,17 @@
         "include_margins": true
       }
     },
-    "17217204298267c120": {
+    "1721723592b67d70f1": {
       "type": "apps",
       "blocks": {
-        "omnisend_email_marketing_sms_product_reviews_rCKHqL": {
+        "omnisend_email_marketing_sms_product_reviews_PUFLMi": {
           "type": "shopify:\/\/apps\/omnisend-email-marketing-sms\/blocks\/product-reviews\/44704aa2-794f-4c5d-8c8e-039c841158e9",
           "settings": {
           }
         }
       },
       "block_order": [
-        "omnisend_email_marketing_sms_product_reviews_rCKHqL"
+        "omnisend_email_marketing_sms_product_reviews_PUFLMi"
       ],
       "settings": {
         "include_margins": true
@@ -224,12 +240,13 @@
   "order": [
     "news_letter_e9dB46",
     "main",
+    "17217204298267c120",
     "featured_collection_custom_wFUNgn",
     "featured_collection_custom_QV7dwE",
     "related-products",
     "contact_form_custom_FqeVN6",
     "1721709844989aaa43",
     "1721712132ff0c8042",
-    "17217204298267c120"
+    "1721723592b67d70f1"
   ]
 }
