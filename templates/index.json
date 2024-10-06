@@ -15,18 +15,18 @@
 
       ],
       "settings": {
-        "news_letter_text": "Click and Collect Available. Delivery Free When Order $120",
+        "news_letter_text": "From 10th October 2024 TO 13th October 2024 . DUE TO MAINTENANCE",
         "head_text": "",
         "main_text": "LOVED BY NATURE!",
         "link_text": "Shop Now",
-        "link_url": "shopify:\/\/collections"
+        "link_url": "shopify://collections"
       }
     },
     "custom_liquid_pFzjUn": {
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<html>\n \n<head>\n <title>Blinking Feature Using CSS<\/title>\n    <style>\n        body {\n            text-align: center;\n        }\n\n        .blink {\n            animation: blinker 1.5s linear infinite;\n            color: Black\n            font-size: 1.em;\n            \/* Larger, responsive font size *\/\n            margin-bottom: 20px;\n        }\n\n        @keyframes blinker {\n            50% {\n                opacity: 0;\n            }\n        }\n    <\/style>\n<\/head>\n\n<body>\n    <p class=\"blink\">Shop Now<\/p>\n<\/body>\n\n    <title>HTML Marquee loop attribute<\/title>\n    <style>\n        .main {\n            text-align: center;\n            font-family: \"Times New Roman\";\n        }\n \n        .marq {\n            padding-top: 30px;\n            padding-bottom: 30px;\n        }\n \n        .geek1 {\n            font-size: 18px;\n            font-weight: bold;\n            color: Black;\n            text-align: center;\n        }\n \n        .geek2 {\n            text-align: center;\n        }\n    <\/style>\n<\/head>\n \n<body>\n    <div class=\"main\">\n        <marquee class=\"marq\" bgcolor=\"Pink\"\n                 direction=\"right\" loop=\"100\">\n            <div class=\"geek1\">Click & Collect Available<\/div>\n            <div class=\"geek2\">\n                \n            <\/div>\n        <\/marquee>\n       \n    <\/div>\n<\/body>\n \n<\/html>",
+        "custom_liquid": "<html>\n \n<head>\n <title>Blinking Feature Using CSS</title>\n    <style>\n        body {\n            text-align: center;\n        }\n\n        .blink {\n            animation: blinker 1.5s linear infinite;\n            color: Black\n            font-size: 1.em;\n            /* Larger, responsive font size */\n            margin-bottom: 20px;\n        }\n\n        @keyframes blinker {\n            50% {\n                opacity: 0;\n            }\n        }\n    </style>\n</head>\n\n<body>\n    <p class=\"blink\">Shop Now</p>\n</body>\n\n    <title>HTML Marquee loop attribute</title>\n    <style>\n        .main {\n            text-align: center;\n            font-family: \"Times New Roman\";\n        }\n \n        .marq {\n            padding-top: 30px;\n            padding-bottom: 30px;\n        }\n \n        .geek1 {\n            font-size: 18px;\n            font-weight: bold;\n            color: Black;\n            text-align: center;\n        }\n \n        .geek2 {\n            text-align: center;\n        }\n    </style>\n</head>\n \n<body>\n    <div class=\"main\">\n        <marquee class=\"marq\" bgcolor=\"Pink\"\n                 direction=\"right\" loop=\"100\">\n            <div class=\"geek1\">Click & Collect Available</div>\n            <div class=\"geek2\">\n                \n            </div>\n        </marquee>\n       \n    </div>\n</body>\n \n</html>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -38,7 +38,7 @@
         "slide_hMF8wr": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-banner-22.png",
+            "image": "shopify://shop_images/maintenenace.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -56,7 +56,7 @@
         "slide_fJ4kCr": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brand-banner-main-4.png",
+            "image": "shopify://shop_images/brand-banner-main-4.png",
             "heading": "",
             "heading_size": "h0",
             "subheading": "",
@@ -74,7 +74,7 @@
         "slide_8RXdND": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GIFT-BANNER-2.png",
+            "image": "shopify://shop_images/GIFT-BANNER-2.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -122,7 +122,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -136,7 +136,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/5cdd3472-3dda-4d05-aafa-c11df92a3899.jpg",
+        "image": "shopify://shop_images/5cdd3472-3dda-4d05-aafa-c11df92a3899.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
@@ -185,28 +185,28 @@
           "type": "item",
           "settings": {
             "menu_text": "candles",
-            "menu_url": "shopify:\/\/collections"
+            "menu_url": "shopify://collections"
           }
         },
         "item_whRD84": {
           "type": "item",
           "settings": {
             "menu_text": "diffusers",
-            "menu_url": "shopify:\/\/collections"
+            "menu_url": "shopify://collections"
           }
         },
         "item_Fhq6nP": {
           "type": "item",
           "settings": {
             "menu_text": "decor",
-            "menu_url": "shopify:\/\/collections"
+            "menu_url": "shopify://collections"
           }
         },
         "item_CHWUdj": {
           "type": "item",
           "settings": {
             "menu_text": "bath & body",
-            "menu_url": "shopify:\/\/collections"
+            "menu_url": "shopify://collections"
           }
         },
         "item_CFdyNR": {
@@ -220,7 +220,7 @@
           "type": "item",
           "settings": {
             "menu_text": "oils & fragrances",
-            "menu_url": "shopify:\/\/collections"
+            "menu_url": "shopify://collections"
           }
         }
       },
@@ -269,9 +269,9 @@
     "healing_stone_8bi4Wc": {
       "type": "healing-stone",
       "settings": {
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-05-15_at_03.17.11.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2024-05-15_at_03.17.11.jpg",
         "link_text": "Shop Collection",
-        "link_url": "shopify:\/\/collections\/candle-collection"
+        "link_url": "shopify://collections/candle-collection"
       }
     },
     "collection_list_custom_HzzQzp": {
@@ -328,7 +328,7 @@
       "type": "apps",
       "blocks": {
         "judge_me_reviews_featured_carousel_rBEWak": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
