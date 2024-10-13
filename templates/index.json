@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "news_letter_CFcGRR": {
@@ -38,7 +38,7 @@
         "slide_hMF8wr": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/maintenenace.png",
+            "image": "shopify://shop_images/brand-banner-new_8cc2a59c-b004-40cd-b919-1d9091f930a7.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
