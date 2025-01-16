@@ -11,9 +11,7 @@
   "sections": {
     "news_letter_CFcGRR": {
       "type": "news-letter",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "news_letter_text": "Click & Collect Available. Delivery Free When Order $120",
         "head_text": "",
@@ -292,7 +290,7 @@
         "featured_collection_KU9xjN": {
           "type": "featured_collection",
           "settings": {
-            "collection": "soy-collection"
+            "collection": "pure-aroma-collection"
           }
         }
       },
